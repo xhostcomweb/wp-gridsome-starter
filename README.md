@@ -2,12 +2,15 @@
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gridsome/gridsome-starter-wordpress)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d15fc83f-942d-4e97-b1b2-013d9f2e7278/deploy-status)](https://app.netlify.com/sites/eloquent-dijkstra-b86505/deploys)
+
+eloquent-dijkstra-b86505.netlify.com  Example
 
 
 ## Install & Todo
 Install Gridsome first, then clone repo and run yarn.
 
-Used Bulma CSS direct from cdn in index.html, and custom nav, but can swap out styles for own.
+Used Bulma CSS, and custom nav, but can swap out styles for own.
 This uses the basics of the Krypto Bulma theme
 Just change nav and page templates to yours, header and footer in components folder.
 3 pages made, Home, About, and Blog/News
