@@ -1,5 +1,4 @@
 <template>
-
 <nav>
   <ul>
     <li>
@@ -10,6 +9,9 @@
     </li>
     <li>
      <g-link class="nav__link" to="/news">News</g-link>
+    </li>
+    <li>
+     <g-link class="nav__link" to="/contact">Contact</g-link>
     </li>
   </ul>
 </nav>
